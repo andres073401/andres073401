@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working at Lulo Bank
+- 🌱 I’m currently learning Jenkins
+- 📫 How to reach me: https://www.linkedin.com/in/jhonatan-andres-rodriguez-prieto-1b7b8a129/
