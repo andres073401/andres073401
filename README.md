@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Lulo Bank
-- 🌱 I’m currently learning Jenkins
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: https://www.linkedin.com/in/jhonatan-andres-rodriguez-prieto-1b7b8a129/
